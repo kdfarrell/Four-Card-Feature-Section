@@ -1,0 +1,44 @@
+:root {
+    --clr-primary: hsl(234, 12%, 34%);
+    --clr-secondary:hsl(212, 6%, 44%);
+
+    --clr-accent1: hsl(0, 78%, 62%);
+    --clr-accent2: hsl(180, 62%, 55%);
+    --clr-accent3: hsl(34, 97%, 64%);
+    --clr-accent4: hsl(212, 86%, 64%);
+
+    --fw-semibold: 600;
+    --fw-normal: 400;
+    --fw-light : 200;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+    background-color: white;
+    padding: 10px;
+    color: var(--clr-primary);
+}
+
+header {
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header h1 span {
+    font-weight: var(--fw-light);
+    display: inline-block;
+    font-size: 25px;
+    text-align: center;
+}
