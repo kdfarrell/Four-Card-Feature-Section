@@ -24,7 +24,7 @@ body {
     min-height: 100vh;
     background-color: white;
     color: var(--clr-primary);
-    margin: 10px;
+    margin: 20px 10px;
 }
 
 /* HEADER SECTION */
