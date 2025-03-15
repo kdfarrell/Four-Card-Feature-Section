@@ -4,7 +4,7 @@
 This project is a solution to the [Four Card Feature Section](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). It features a responsive design that closely follows the provided layout.  
 
 ## Live Demo  
-🔗 [View Live Site](https://kdfarrell.github.io/Four-Card-Feature-Section/)  
+🔗 [View Live Site](https://kdfarrell.github.io/Four-Card-Feature-Section-UI/)  
 
 ## Technologies Used  
 - HTML  
